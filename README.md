@@ -37,7 +37,7 @@ cross_camera_player_mapping/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <git@github.com:trivedi166/cross_camera_player_mapping.git>
 cd cross_camera_player_mapping
 ```
 
@@ -54,7 +54,18 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Ensure your `model/best.pt` exists and your `data/` folder contains both videos (`broadcast.mp4` and `tacticam.mp4`).
+Ensure your data/` folder contains both videos (`broadcast.mp4` and `tacticam.mp4`).
+
+### 📦 Download Model
+
+Download the YOLOv8 model weights manually:
+
+- File: `best.pt`
+- Place it in the `model/` directory
+- Download link: [Google Drive / Dropbox / Other Cloud Link]
+
+> **Note**: The model file is not included in this repo due to GitHub’s 100MB file size limit.
+
 
 ---
 
@@ -120,7 +131,7 @@ Installed via `requirements.txt`:
 ## ✍️ Author
 
 **Abhinav Trivedi**  
-[LinkedIn](https://www.linkedin.com/in/abhinav-trivedi)  
+[LinkedIn](www.linkedin.com/in/abhinav-trivedi-04526b123)  
 [GitHub](https://github.com/trivedi166)
 
 ---
@@ -128,4 +139,3 @@ Installed via `requirements.txt`:
 ## 📌 Notes
 
 - Ball detection is included but not used for embedding or matching.
-- This version is the base challenge submission — optional enhancements are not included in this version.
