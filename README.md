@@ -62,7 +62,6 @@ Download the YOLOv8 model weights manually:
 
 - File: `best.pt`
 - Place it in the `model/` directory
-- Download link: [Google Drive / Dropbox / Other Cloud Link]
 
 > **Note**: The model file is not included in this repo due to GitHub’s 100MB file size limit.
 
