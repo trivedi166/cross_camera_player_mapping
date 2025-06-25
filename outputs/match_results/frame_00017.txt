@@ -1,0 +1,8 @@
+broadcast_player_0 <-> tacticam_player_11 | similarity: 0.823
+broadcast_player_1 <-> tacticam_player_9 | similarity: 0.873
+broadcast_player_2 <-> tacticam_player_10 | similarity: 0.778
+broadcast_player_3 <-> tacticam_player_3 | similarity: 0.848
+broadcast_player_4 <-> tacticam_player_6 | similarity: 0.854
+broadcast_player_5 <-> tacticam_player_1 | similarity: 0.837
+broadcast_player_6 <-> tacticam_player_0 | similarity: 0.867
+broadcast_player_7 <-> tacticam_player_7 | similarity: 0.818
