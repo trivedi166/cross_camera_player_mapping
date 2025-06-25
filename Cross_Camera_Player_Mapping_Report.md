@@ -48,7 +48,6 @@ These videos were provided as part of the challenge and are used to extract fram
 
 ### Step 5: Visualization
 - Matched bounding boxes are drawn across both camera views.
-- Optional enhancements (like bounding box overlay) were prepared but not submitted.
 
 ---
 
@@ -88,10 +87,3 @@ cross_camera_player_mapping/
 - Applied **Hungarian algorithm** for optimal bipartite graph matching.
 - Developed a full ML pipeline from **video → detection → embedding → matching → visualization**.
 
----
-
-## 7. Optional Enhancements (Not Submitted)
-
-- Bounding box visualizations on matched frames.
-- Real-time player tracking extensions.
-- Frame-by-frame heatmaps.
